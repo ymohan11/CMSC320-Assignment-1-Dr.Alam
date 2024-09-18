@@ -13,3 +13,6 @@ Q3: What is the difference between merging and rebasing?
 Answer: Merging combines branches and rebasing moves one in front of the 
 other
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: Python skills
