@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give and Example and how 
+it might help
+
+Answer: Farming for crop stats
