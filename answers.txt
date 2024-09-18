@@ -8,3 +8,8 @@ it might help
 
 Answer: Farming for crop stats
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines branches and rebasing moves one in front of the 
+other
+
