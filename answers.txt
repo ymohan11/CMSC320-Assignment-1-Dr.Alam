@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Its good for version control
